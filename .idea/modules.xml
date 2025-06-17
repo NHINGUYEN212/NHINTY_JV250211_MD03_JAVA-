@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MD03.iml" filepath="$PROJECT_DIR$/.idea/MD03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TSU_JV250211_MD03_Session01/TSU_JV250211_MD03_Session01.iml" filepath="$PROJECT_DIR$/TSU_JV250211_MD03_Session01/TSU_JV250211_MD03_Session01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TSU_JV250211_MD03_Session02/TSU_JV250211_MD03_Session02.iml" filepath="$PROJECT_DIR$/TSU_JV250211_MD03_Session02/TSU_JV250211_MD03_Session02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TSU_JV250211_MD03_Session03_Bai01/TSU_JV250211_MD03_Session03_Bai01.iml" filepath="$PROJECT_DIR$/TSU_JV250211_MD03_Session03_Bai01/TSU_JV250211_MD03_Session03_Bai01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TSU_JV250211_MD03_Session03_Bai02/TSU_JV250211_MD03_Session03_Bai02.iml" filepath="$PROJECT_DIR$/TSU_JV250211_MD03_Session03_Bai02/TSU_JV250211_MD03_Session03_Bai02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TSU_JV250211_MD03_Session03_Bai03/TSU_JV250211_MD03_Session03_Bai03.iml" filepath="$PROJECT_DIR$/TSU_JV250211_MD03_Session03_Bai03/TSU_JV250211_MD03_Session03_Bai03.iml" />
+    </modules>
+  </component>
+</project>
