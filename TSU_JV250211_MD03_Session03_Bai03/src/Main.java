@@ -78,10 +78,10 @@ public class Main {
                         } else {
                             System.out.println("--- Thống kê ---");
                             System.out.println("Số nhân viên: " + staffCount);
-                            System.out.printf("Tổng lương: %.2f VND%n", totalSalary);
-                            System.out.printf("Lương trung bình: %.2f VND%n", totalSalary / staffCount);
-                            System.out.printf("Lương cao nhất: %.2f VND%n", maxSalary);
-                            System.out.printf("Lương thấp nhất: %.2f VND%n", minSalary);
+                            System.out.printf("Tổng lương: %,10.2f VND%n", totalSalary);
+                            System.out.printf("Lương trung bình: %,10.2f VND%n", totalSalary / staffCount);
+                            System.out.printf("Lương cao nhất: %,10.2f VND%n", maxSalary);
+                            System.out.printf("Lương thấp nhất: %,10.2f VND%n", minSalary);
                         }
                         break;
                     case 3:
