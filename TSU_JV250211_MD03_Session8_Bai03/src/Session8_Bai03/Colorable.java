@@ -1,4 +1,5 @@
 package Session8_Bai03;
 
-public class Colorable {
+public interface Colorable {
+    void setColor(String color);
 }
